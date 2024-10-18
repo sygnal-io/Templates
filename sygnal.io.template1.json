@@ -5,7 +5,7 @@
     "serviceName": "Sygnal Tracking Subdomain",
     "version": 1,
     "description": "Service to create a subdomain for tracking purposes.",
-    "syncRedirectDomain": "https://app.sygnal.io/admin/",
+    "syncRedirectDomain": "sygnal.io",
     "syncPubKeyDomain": "sygnal.io",
     "syncBlock" : false,
     "variableDescription": "host is the subdomain you want to use for tracking",
