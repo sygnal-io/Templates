@@ -9,6 +9,7 @@
     "syncPubKeyDomain": "sygnal.io",
     "syncBlock" : false,
     "variableDescription": "host is the subdomain you want to use for tracking",
+    "logoUrl": "https://sygnal.io/icons/logo.svg",
     "records": [
         {
             "type": "CNAME",
