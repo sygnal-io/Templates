@@ -13,7 +13,7 @@
     "records": [
         {
             "type": "CNAME",
-            "host": "%host%",
+            "host": "%var%",
             "pointsTo": "app.securetrack.io",
             "ttl": 3600
         }
