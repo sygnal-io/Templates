@@ -3,7 +3,7 @@
     "providerName": "Sygnal",
     "serviceId": "template1",
     "serviceName": "Sygnal Tracking Subdomain",
-    "version": 1,
+    "version": 2,
     "description": "Service to create a subdomain for tracking purposes.",
     "syncRedirectDomain": "sygnal.io",
     "syncPubKeyDomain": "sygnal.io",
